@@ -1,11 +1,11 @@
 # auth-api
-[gitHub]()
+[gitHub](https://github.com/alsatarysamah/auth-api)
 
-[Action]()
+[Action](https://github.com/alsatarysamah/auth-api/actions)
 
-[PR]()
+[PR](https://github.com/alsatarysamah/auth-api/pull/1)
 
-[heroku]()
+[heroku](https://samah-api-auth.herokuapp.com/)
 
 its a project that is designed to handle user registration and sign in using Basic, Bearer, or OAuth along with a custom “authorization” module that will grant/deny users access to the server based on their role or permissions level.
 
