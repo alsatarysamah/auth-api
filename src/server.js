@@ -17,6 +17,9 @@ const foodRouter2=require("../src/auth/router/foodV2");
 
 // Prepare the express app
 const app = express();
+app.get("/",(req,res)=>{
+  res.send("Home");
+})
 
 // App Level MW
 app.use(cors());
